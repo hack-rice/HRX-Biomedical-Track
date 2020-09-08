@@ -12,7 +12,7 @@ This track is intentionally broad; we’re open to seeing a broad range of healt
 
 # Resources
 
-Here are som publicly available datasets:
+Here are some publicly available datasets:
 * https://covid19.healthdata.org/united-states-of-america
 * https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 * https://www.semanticscholar.org/cord19/download

@@ -1,4 +1,4 @@
-# HackRiceX | Biomedical Track
+# HackRice X | Biomedical Track
 
 # Track Description
 
